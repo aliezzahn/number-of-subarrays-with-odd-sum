@@ -1,0 +1,12 @@
+[package]
+name = "number-of-subarrays-with-odd-sum"
+version = "0.1.0"
+edition = "2021"
+authors = ["aliezzahn <aliezzahn@examplegmail.com>"]
+description = "Given an array of integers `arr`, return the number of sub-arrays with an odd sum."
+license = "MIT"
+repository = "https://github.com/your-username/number-of-subarrays-with-odd-sum"
+
+[dependencies]
+
+[dev-dependencies]
